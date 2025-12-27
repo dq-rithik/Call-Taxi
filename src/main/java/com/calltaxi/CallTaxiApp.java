@@ -1,6 +1,6 @@
-package main.java.org.karthik;
+package main.java.com.calltaxi;
 
-import main.java.org.karthik.service.BookingService;
+import main.java.com.calltaxi.service.BookingService;
 
 import java.util.Scanner;
 

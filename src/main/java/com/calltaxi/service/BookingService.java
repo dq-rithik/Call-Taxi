@@ -1,7 +1,7 @@
-package main.java.org.karthik.service;
+package main.java.com.calltaxi.service;
 
-import main.java.org.karthik.dto.Booking;
-import main.java.org.karthik.dto.Taxi;
+import main.java.com.calltaxi.dto.Booking;
+import main.java.com.calltaxi.dto.Taxi;
 
 import java.util.ArrayList;
 import java.util.List;

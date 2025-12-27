@@ -1,4 +1,4 @@
-package main.java.org.karthik.dto;
+package main.java.com.calltaxi.dto;
 
 public class Booking {
     private int bookingId;
