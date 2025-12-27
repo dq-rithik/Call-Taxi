@@ -1,7 +1,7 @@
-package main.java.com.calltaxi.service;
+package com.calltaxi.service;
 
-import main.java.com.calltaxi.dto.Booking;
-import main.java.com.calltaxi.dto.Taxi;
+import com.calltaxi.dto.Booking;
+import com.calltaxi.dto.Taxi;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package main.java.com.calltaxi.dto;
+package com.calltaxi.dto;
 
 public class Booking {
     private int bookingId;

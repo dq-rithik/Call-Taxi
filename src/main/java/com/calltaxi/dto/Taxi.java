@@ -1,4 +1,4 @@
-package main.java.com.calltaxi.dto;
+package com.calltaxi.dto;
 
 import java.util.ArrayList;
 

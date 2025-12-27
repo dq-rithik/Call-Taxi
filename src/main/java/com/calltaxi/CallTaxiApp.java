@@ -1,6 +1,6 @@
-package main.java.com.calltaxi;
+package com.calltaxi;
 
-import main.java.com.calltaxi.service.BookingService;
+import com.calltaxi.service.BookingService;
 
 import java.util.Scanner;
 
